@@ -1,0 +1,6 @@
+*.vs
+package-lock.json
+WebApplication2/obj
+WebApplication2/bin
+WebApplication2/ClientApp/node_modules
+*.csproj.user
